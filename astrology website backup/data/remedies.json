@@ -1,0 +1,1222 @@
+﻿{
+  "categories": [
+    {
+      "id": "rudraksha",
+      "name": "Rudraksha",
+      "description": "Sacred beads used for spiritual practice and specific astrological remedies.",
+      "subcategories": [
+        {
+          "id": "indian",
+          "name": "Indian"
+        },
+        {
+          "id": "nepali",
+          "name": "Nepali"
+        }
+      ],
+      "products": [
+        {
+          "id": "1-mukhi-indian",
+          "name": "1-Mukhi Rudraksh (Indian)",
+          "subcategory": "indian",
+          "price": 2999,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "1-mukhi-nepali",
+          "name": "1-Mukhi Rudraksh (Nepali, Underdeveloped)",
+          "subcategory": "nepali",
+          "price": 5499,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "2-mukhi-indian",
+          "name": "2-Mukhi Rudraksh (Indian)",
+          "subcategory": "indian",
+          "price": 599,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "2-mukhi-nepali",
+          "name": "2-Mukhi Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 14999,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "3-mukhi-indian",
+          "name": "3-Mukhi Rudraksh (Indian)",
+          "subcategory": "indian",
+          "price": 599,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "3-mukhi-nepali",
+          "name": "3-Mukhi Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 1099,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "4-mukhi-nepali",
+          "name": "4-Mukhi Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 599,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "5-mukhi-nepali",
+          "name": "5-Mukhi Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 599,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "6-mukhi-nepali",
+          "name": "6-Mukhi Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 599,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "7-mukhi-nepali",
+          "name": "7-Mukhi Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 899,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "8-mukhi-nepali",
+          "name": "8-Mukhi Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 3499,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "9-mukhi-nepali",
+          "name": "9-Mukhi Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 3499,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "10-mukhi-nepali",
+          "name": "10-Mukhi Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 3499,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "11-mukhi-nepali",
+          "name": "11-Mukhi Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 3499,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "12-mukhi-nepali",
+          "name": "12-Mukhi Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 5499,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "13-mukhi-nepali",
+          "name": "13-Mukhi Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 7999,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "14-mukhi-nepali",
+          "name": "14-Mukhi Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 29999,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "garbh-gauri-nepali",
+          "name": "Garbh Gauri Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 6999,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "gauri-shankar-nepali",
+          "name": "Gauri Shankar Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 8999,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "ganesh-rudraksh-nepali",
+          "name": "Ganesh Rudraksh (Nepali)",
+          "subcategory": "nepali",
+          "price": 1499,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "bracelets",
+      "name": "Bracelets",
+      "description": "Crystal and gemstone bracelets for everyday wear and specific intentions.",
+      "subcategories": [
+        {
+          "id": "rashi",
+          "name": "Rashi-specific"
+        },
+        {
+          "id": "general",
+          "name": "General"
+        }
+      ],
+      "products": [
+        {
+          "id": "raw-pyrite",
+          "name": "Raw Pyrite",
+          "subcategory": "general",
+          "price": 599,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts wealth and financial opportunities",
+            "Boosts confidence and personal power",
+            "Shields against negativity and energy drains"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "polished-pyrite",
+          "name": "Polished Pyrite",
+          "subcategory": "general",
+          "price": 599,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts wealth and financial opportunities",
+            "Boosts confidence and personal power",
+            "Shields against negativity and energy drains"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "7-chakra-bracelet",
+          "name": "7 Chakra",
+          "subcategory": "general",
+          "price": 799,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Balances all seven energy centers",
+            "Promotes emotional and physical harmony",
+            "Aligns body, mind, and spirit"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "amethyst-bracelet",
+          "name": "Amethyst",
+          "subcategory": "general",
+          "price": 799,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Balances all seven energy centers",
+            "Promotes emotional and physical harmony",
+            "Aligns body, mind, and spirit"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "aquamarine",
+          "name": "Aquamarine",
+          "subcategory": "general",
+          "price": 1099,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Amplifies energy and intentions",
+            "Clears mind and enhances focus",
+            "Boosts power of other crystals"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "black-tourmaline",
+          "name": "Black Tourmaline",
+          "subcategory": "general",
+          "price": 1099,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Absorbs negativity and psychic smog",
+            "Grounds energy and clears blockages",
+            "Reveals hidden truths and emotions"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "firoza",
+          "name": "Firoza",
+          "subcategory": "general",
+          "price": 799,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Radiates powerful abundance and success energy",
+            "Strengthens willpower and mental clarity",
+            "Shields aura from negativity and harm"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "sulemani",
+          "name": "Sulemani",
+          "subcategory": "general",
+          "price": 799,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Protects against black magic and negativity",
+            "Grounds energy and stabilizes emotions",
+            "Enhances focus, courage, and decision-making"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "clear-quartz-bracelet",
+          "name": "Clear Quartz",
+          "subcategory": "general",
+          "price": 849,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Amplifies energy and intentions",
+            "Clears mind and enhances focus",
+            "Boosts power of other crystals"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "cats-eye-bracelet",
+          "name": "Cat's Eye",
+          "subcategory": "general",
+          "price": 999,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Shields against evil eye and misfortune",
+            "Enhances intuition and spiritual insight",
+            "Aids in sudden wealth and recovery"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "money-magnet",
+          "name": "Money Magnet",
+          "subcategory": "general",
+          "price": 799,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts wealth and financial opportunities",
+            "Boosts confidence and manifestation power",
+            "Aligns mindset with abundance energy"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "tiger-eye",
+          "name": "Tiger Eye",
+          "subcategory": "general",
+          "price": 599,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Shields against evil eye and misfortune",
+            "Enhances intuition and spiritual insight",
+            "Aids in sudden wealth and recovery"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "rose-quartz-bracelet",
+          "name": "Rose Quartz",
+          "subcategory": "general",
+          "price": 599,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Heals heart and attracts love",
+            "Promotes self-love and emotional peace",
+            "Soothes stress and restores harmony"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "pyrite-black-tourmaline",
+          "name": "Pyrite + Black Tourmaline",
+          "subcategory": "general",
+          "price": 1199,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Shields against evil eye and misfortune",
+            "Enhances intuition and spiritual insight",
+            "Aids in sudden wealth and recovery"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "citrine",
+          "name": "Citrine",
+          "subcategory": "general",
+          "price": 1299,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts wealth and success",
+            "Boosts confidence and creativity",
+            "Energizes and uplifts your mood"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "citrine-yellow",
+          "name": "Citrine (Yellow)",
+          "subcategory": "general",
+          "price": 799,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts abundance with loving energy",
+            "Balances heart and personal power",
+            "Supports self-worth and emotional healing"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "red-jasper",
+          "name": "Red Jasper",
+          "subcategory": "general",
+          "price": 799,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Boosts stamina and physical strength",
+            "Grounds energy and stabilizes emotions",
+            "Promotes courage and determination"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "lapis-lazuli",
+          "name": "Lapis Lazuli",
+          "subcategory": "general",
+          "price": 899,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Enhances wisdom & intuition",
+            "Boosts confidence & communication",
+            "Brings calm & inner peace"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "green-aventurine",
+          "name": "Green Aventurine",
+          "subcategory": "general",
+          "price": 599,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts luck, prosperity, and opportunities",
+            "Heals heart and promotes emotional growth",
+            "Encourages optimism and new beginnings"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "sodalite",
+          "name": "Sodalite",
+          "subcategory": "general",
+          "price": 699,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Boosts focus & clear thinking",
+            "Calms stress and anxiety",
+            "Improves communication & self-expression"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "sunstone",
+          "name": "Sunstone",
+          "subcategory": "general",
+          "price": 999,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts good luck & positivity",
+            "Boosts confidence and personal power",
+            "Inspires joy, creativity & motivation"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "moonstone",
+          "name": "Moonstone",
+          "subcategory": "general",
+          "price": 1199,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Enhances intuition & inner guidance",
+            "Balances emotions & relieves stress",
+            "Supports love, fertility & new beginnings"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "lava-7chakra",
+          "name": "Lava + 7 Chakra",
+          "subcategory": "general",
+          "price": 499,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Grounds energy and calms the mind",
+            "Balances chakras for inner harmony",
+            "Absorbs essential oils for aromatherapy"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "dhanyog-natural",
+          "name": "Dhanyog (Natural)",
+          "subcategory": "general",
+          "price": 799,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts wealth & financial growth",
+            "Enhances opportunities & success",
+            "Boosts confidence in decisions"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "dhanyog-yellow-citrine",
+          "name": "Dhanyog (Yellow Citrine)",
+          "subcategory": "general",
+          "price": 699,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts wealth & financial growth",
+            "Enhances opportunities & success",
+            "Boosts confidence in decisions"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "clear-quartz-rudraksha-bracelet",
+          "name": "Clear Quartz + Rudraksha",
+          "subcategory": "general",
+          "price": 799,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Amplifies energy & intentions",
+            "Provides protection & grounding",
+            "Enhances focus & spiritual balance"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "pyrite-rose-quartz",
+          "name": "Pyrite + Rose Quartz",
+          "subcategory": "general",
+          "price": 999,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts abundance with loving energy",
+            "Balances heart and personal power",
+            "Supports self-worth and emotional healing"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "raw-selenite-plate",
+          "name": "Raw Selenite Plate",
+          "subcategory": "general",
+          "price": 499,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Cleanses & charges other crystals",
+            "Removes negative energy from space",
+            "Promotes peace & mental clarity"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "selenite-plate",
+          "name": "Selenite Plate",
+          "subcategory": "general",
+          "price": 599,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Cleanses & charges other crystals",
+            "Removes negative energy from space",
+            "Promotes peace & mental clarity"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "gemstones",
+      "name": "Gemstones",
+      "description": "Astrological gemstones recommended after chart analysis.",
+      "categoryNote": "Prices shown are starting prices, per carat. Product images are for representation purposes only — the exact stone you receive will be confirmed with you before dispatch.",
+      "subcategories": [],
+      "products": [
+        {
+          "id": "blue-sapphire",
+          "name": "Blue Sapphire",
+          "subcategory": "",
+          "price": 999,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true,
+          "priceLabel": "Starting price, per carat"
+        },
+        {
+          "id": "yellow-sapphire",
+          "name": "Yellow Sapphire",
+          "subcategory": "",
+          "price": 999,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true,
+          "priceLabel": "Starting price, per carat"
+        },
+        {
+          "id": "white-sapphire",
+          "name": "White Sapphire",
+          "subcategory": "",
+          "price": 799,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true,
+          "priceLabel": "Starting price, per carat"
+        },
+        {
+          "id": "ruby",
+          "name": "Ruby",
+          "subcategory": "",
+          "price": 999,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true,
+          "priceLabel": "Starting price, per carat"
+        },
+        {
+          "id": "red-coral",
+          "name": "Red Coral",
+          "subcategory": "",
+          "price": 899,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true,
+          "priceLabel": "Starting price, per carat"
+        },
+        {
+          "id": "pearl",
+          "name": "Pearl",
+          "subcategory": "",
+          "price": 799,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true,
+          "priceLabel": "Starting price, per carat"
+        },
+        {
+          "id": "emerald",
+          "name": "Emerald",
+          "subcategory": "",
+          "price": 1199,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true,
+          "priceLabel": "Starting price, per carat"
+        },
+        {
+          "id": "moissanite",
+          "name": "Moissanite",
+          "subcategory": "",
+          "price": 1199,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true,
+          "priceLabel": "Starting price, per carat"
+        },
+        {
+          "id": "hessonite",
+          "name": "Hessonite",
+          "subcategory": "",
+          "price": 699,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true,
+          "priceLabel": "Starting price, per carat"
+        },
+        {
+          "id": "cats-eye-gem",
+          "name": "Cat's Eye",
+          "subcategory": "",
+          "price": 1199,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true,
+          "priceLabel": "Starting price, per carat"
+        },
+        {
+          "id": "amethyst-gem",
+          "name": "Amethyst",
+          "subcategory": "",
+          "price": 599,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true,
+          "priceLabel": "Starting price, per carat"
+        },
+        {
+          "id": "diamond",
+          "name": "Diamond",
+          "subcategory": "",
+          "price": 55000,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [],
+          "certificateImage": "",
+          "inStock": true,
+          "priceLabel": "Starting price, per carat"
+        }
+      ]
+    },
+    {
+      "id": "mala",
+      "name": "Mala",
+      "description": "Prayer bead malas for meditation, japa, and daily spiritual practice.",
+      "subcategories": [],
+      "products": [
+        {
+          "id": "rose-quartz-mala",
+          "name": "Rose Quartz Mala",
+          "subcategory": "",
+          "price": 1199,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts love & emotional healing",
+            "Promotes inner peace & compassion",
+            "Supports meditation & heart chakra balance"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "amethyst-mala",
+          "name": "Amethyst Mala",
+          "subcategory": "",
+          "price": 2100,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Enhances intuition & spiritual growth",
+            "Reduces stress & promotes calm",
+            "Improves focus & mental clarity"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "clear-quartz-mala",
+          "name": "Clear Quartz Mala",
+          "subcategory": "",
+          "price": 2500,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts love & emotional healing",
+            "Promotes inner peace & compassion",
+            "Supports meditation & heart chakra balance"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "5mukhi-rudraksha-mala",
+          "name": "5 Mukhi Rudraksha Mala",
+          "subcategory": "",
+          "price": 699,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Enhances intuition & spiritual growth",
+            "Reduces stress & promotes calm",
+            "Improves focus & mental clarity"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "karungli-mala",
+          "name": "Karungli Mala",
+          "subcategory": "",
+          "price": 999,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts love & emotional healing",
+            "Promotes inner peace & compassion",
+            "Supports meditation & heart chakra balance"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "tulsi-mala",
+          "name": "Tulsi Mala",
+          "subcategory": "",
+          "price": 599,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Enhances intuition & spiritual growth",
+            "Reduces stress & promotes calm",
+            "Improves focus & mental clarity"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "other-remedies",
+      "name": "Future / Other Remedies",
+      "description": "Yantras, pyramids, and other remedies recommended on a case-by-case basis.",
+      "subcategories": [],
+      "products": [
+        {
+          "id": "7horses-frame",
+          "name": "7 Horses Frame",
+          "subcategory": "",
+          "price": 1299,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts wealth & prosperity",
+            "Brings success & fast progress",
+            "Spreads positive, protective energy"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "dhan-lakshmi-pyramid",
+          "name": "Dhan Lakshmi Pyramid",
+          "subcategory": "",
+          "price": 1299,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts wealth, abundance & financial growth",
+            "Brings blessings of Goddess Lakshmi for prosperity"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "vyapar-vriddhi-frame",
+          "name": "Vyapar Vriddhi Frame",
+          "subcategory": "",
+          "price": 1299,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Boosts business growth & profitability",
+            "Attracts wealth and customer flow",
+            "Removes obstacles, bringing success in trade"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "money-bowl",
+          "name": "Money Bowl",
+          "subcategory": "",
+          "price": 1699,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Pyrite Ganesha attracts abundance",
+            "Selenite bowl clears negativity",
+            "Balanced blessings — combines prosperity with peace"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "7chakra-tree",
+          "name": "7 Chakra Tree",
+          "subcategory": "",
+          "price": 1299,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Balances all 7 chakras",
+            "Promotes positive energy flow",
+            "Brings peace & emotional stability"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "rose-quartz-tree",
+          "name": "Rose Quartz Tree",
+          "subcategory": "",
+          "price": 1399,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Attracts love & relationships",
+            "Promotes emotional healing",
+            "Brings peace & calm energy"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "rose-quartz-sphere",
+          "name": "Rose Quartz Sphere",
+          "subcategory": "",
+          "price": 1500,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Emits calming & soothing energy",
+            "Heals emotional stress & anxiety",
+            "Attracts love & harmony"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        },
+        {
+          "id": "amethyst-sphere",
+          "name": "Amethyst Sphere",
+          "subcategory": "",
+          "price": 1500,
+          "deliveryChargesIncluded": false,
+          "images": [],
+          "description": "",
+          "specifications": [],
+          "significance": [
+            "Enhances mental clarity & focus",
+            "Reduces stress & promotes calm",
+            "Supports spiritual growth & protection"
+          ],
+          "certificateImage": "",
+          "inStock": true
+        }
+      ]
+    }
+  ],
+  "_comment": "Populated from Ankush's product PDF (Aug 2026). Add new products inside the matching category's 'products' array using the same shape. The page renders automatically from this file."
+}

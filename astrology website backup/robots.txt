@@ -1,0 +1,7 @@
+﻿User-agent: *
+Allow: /
+Disallow: /privacy-policy.html
+Disallow: /terms.html
+Disallow: /refund-policy.html
+
+Sitemap: https://acharyaa-ankush.netlify.app/sitemap.xml

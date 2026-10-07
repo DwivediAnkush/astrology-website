@@ -1,0 +1,121 @@
+﻿{
+  "focused": {
+    "label": "Focused Consultations",
+    "description": "One question, answered in depth. Pick the area you need clarity on.",
+    "items": [
+      {
+        "id": "career",
+        "name": "Career",
+        "price": 501,
+        "duration": "30 minutes",
+        "delivery": "Voice call",
+        "description": "Chart-based guidance on career direction, job changes, business timing, and professional growth periods."
+      },
+      {
+        "id": "relationship",
+        "name": "Relationship",
+        "price": 501,
+        "duration": "30 minutes",
+        "delivery": "Voice call",
+        "description": "Clarity on compatibility, timing, and the patterns showing up in a current or upcoming relationship."
+      },
+      {
+        "id": "marriage-matching",
+        "name": "Marriage Kundli Matching",
+        "price": 501,
+        "duration": "30 minutes",
+        "delivery": "Voice call",
+        "description": "Traditional Guna Milan and chart compatibility analysis for two individuals considering marriage."
+      },
+      {
+        "id": "finance",
+        "name": "Finance",
+        "price": 501,
+        "duration": "30 minutes",
+        "delivery": "Voice call",
+        "description": "Reading on financial patterns, favourable periods for investment or major decisions, and money-related doshas."
+      },
+      {
+        "id": "health",
+        "name": "Health Guidance",
+        "price": 501,
+        "duration": "30 minutes",
+        "delivery": "Voice call",
+        "description": "Astrological perspective on health-related patterns in the chart, and periods that call for extra care."
+      },
+      {
+        "id": "birth-time-rectification",
+        "name": "Birth Time Rectification",
+        "price": 999,
+        "delivery": "Email / voice notes",
+        "description": "A detailed chart-based process to assess and refine an uncertain birth time using major life events and astrological timing."
+      }
+    ]
+  },
+  "comprehensive": {
+    "label": "Comprehensive Consultations",
+    "description": "Broader sessions covering multiple areas of life through your complete birth chart.",
+    "items": [
+      {
+        "id": "voice-call-consultation",
+        "name": "Voice Call Consultation",
+        "price": 799,
+        "duration": "45 minutes",
+        "delivery": "Voice call",
+        "description": "A broader consultation covering the areas of life that matter most to you, grounded in your complete birth chart."
+      },
+      {
+        "id": "video-consultation",
+        "name": "Video Consultation",
+        "price": 999,
+        "duration": "45 minutes",
+        "delivery": "Video call",
+        "description": "A detailed face-to-face chart walkthrough covering career, relationships, marriage, finance, family, and other important life areas."
+      },
+      {
+        "id": "premium-consultation",
+        "name": "Premium Consultation",
+        "price": 1199,
+        "duration": "1 hour",
+        "delivery": "Video call + regular follow-ups",
+        "description": "An extended full-chart consultation with deeper analysis and regular follow-ups to help you track important developments after the session.",
+        "featured": true
+      }
+    ]
+  },
+  "voice-notes": {
+    "label": "Voice Notes Consultation",
+    "description": "A convenient consultation format for detailed guidance without a live call.",
+    "items": [
+      {
+        "id": "voice-notes-consultation",
+        "name": "Voice Notes Consultation",
+        "price": 299,
+        "delivery": "Voice notes",
+        "description": "Receive a personalised chart-based reading through detailed voice notes, covering your specific questions and relevant astrological insights."
+      }
+    ]
+  },
+  "international": {
+    "label": "International Clients",
+    "description": "Full chart analysis for clients outside India, available through video call or voice call.",
+    "items": [
+  {
+    "id": "international-voice",
+    "name": "International Full Chart Analysis — Voice",
+    "price": 1500,
+    "duration": "45 minutes",
+    "delivery": "Voice call",
+    "description": "Complete Vedic chart analysis delivered through a detailed voice consultation covering major areas of life and important planetary periods."
+  },
+  {
+    "id": "international-video",
+    "name": "International Full Chart Analysis — Video",
+    "price": 2100,
+    "duration": "45 minutes",
+    "delivery": "Video call",
+    "description": "Complete Vedic chart analysis covering career, relationships, marriage, finance, family, and important planetary periods."
+  }
+]
+  }
+}

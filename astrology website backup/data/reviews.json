@@ -1,0 +1,68 @@
+﻿{
+  "reviews": [
+    {
+      "name": "Priya Sharma",
+      "service": "Career Consultation",
+      "rating": 5,
+      "text": "I was stuck between two job offers and anxious about timing. Acharyaa Ankush explained my dasha in plain language and told me which window actually favoured a switch. I took the offer he flagged — and the first three months matched what he described. Calm, precise, no drama.",
+      "anonymized": false
+    },
+    {
+      "name": "Rohit Mehta",
+      "service": "Finance Consultation",
+      "rating": 5,
+      "text": "I had been making the same money mistakes every year. He showed the pattern in the chart, gave two practical remedies, and a period to be extra careful with investments. Within weeks I felt clearer. This is not fortune-telling — it is structured advice.",
+      "anonymized": false
+    },
+    {
+      "name": "Ananya Iyer",
+      "service": "Marriage Kundli Matching",
+      "rating": 5,
+      "text": "We needed an honest kundli match, not a rubber stamp. He pointed out both strengths and friction points, and what could be worked on. Our families finally had a conversation based on facts instead of fear. Grateful for the honesty.",
+      "anonymized": false
+    },
+    {
+      "name": "Vikram Singh",
+      "service": "Personal Guidance",
+      "rating": 5,
+      "text": "The comprehensive session covered career, family and health in one sitting. I received a clear timeline and simple remedies I could actually follow. Follow-up on WhatsApp was prompt. 2,000+ happy clients makes sense once you sit with him.",
+      "anonymized": false
+    },
+    {
+      "name": "Sneha Patel",
+      "service": "Relationship Consultation",
+      "rating": 5,
+      "text": "I came in confused about a long relationship. He did not tell me what I wanted to hear — he told me what the chart showed, then how to handle the next six months. That honesty saved me months of second-guessing.",
+      "anonymized": false
+    },
+    {
+      "name": "Aarav Kapoor",
+      "service": "Health Consultation",
+      "rating": 5,
+      "text": "Not a medical diagnosis — he was clear about that — but the periods he marked for extra rest lined up with how I had been feeling. The remedies were simple. I now plan check-ups around those windows instead of ignoring them.",
+      "anonymized": false
+    },
+    {
+      "name": "Meera Joshi",
+      "service": "Video Consultation",
+      "rating": 5,
+      "text": "Spoke from Pune on a video call. Birth details were checked first, then he walked through the chart house by house. I could ask follow-up questions live. Felt like talking to an engineer who also happens to read kundlis.",
+      "anonymized": false
+    },
+    {
+      "name": "Name withheld by request",
+      "service": "Premium Consultation",
+      "rating": 5,
+      "text": "Business decisions were stalling and family pressure was high. The PDF report plus the call gave me a map for 18 months. We have already resolved two of the three issues I came with. Quiet, professional, and very sharp.",
+      "anonymized": true
+    },
+    {
+      "name": "Karan Malhotra",
+      "service": "Career Consultation",
+      "rating": 5,
+      "text": "I was about to resign in frustration. He asked me to wait eight weeks and tighten one habit. A better internal role opened exactly in that window. I tell people: if you want guesswork, go elsewhere.",
+      "anonymized": false
+    }
+  ],
+  "_comment": "Add a review as {name, service, rating, text, anonymized: true/false}."
+}
